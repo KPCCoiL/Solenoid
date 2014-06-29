@@ -1,0 +1,4 @@
+Solenoid
+========
+
+Solenoid functional language
